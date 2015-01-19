@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+/home/manishgant/MSITProject/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+813788292.index
+3340689737.index
+545894933.index
+2671744398.index
+1377656869.index
+1288056248.index

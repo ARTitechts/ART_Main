@@ -1,0 +1,4 @@
+127.0.0.1 - - [03/Dec/2014:00:30:38 +0530] "GET /ART/faces/home.xhtml HTTP/1.1" 200 27368
+127.0.0.1 - - [03/Dec/2014:00:31:41 +0530] "GET /ART/faces/javax.faces.resource/images/ui-icons_2e83ff_256x240.png?ln=primefaces-aristo HTTP/1.1" 200 4369
+127.0.0.1 - - [03/Dec/2014:00:31:50 +0530] "POST /ART/faces/home.xhtml HTTP/1.1" 200 6356
+127.0.0.1 - - [03/Dec/2014:00:32:32 +0530] "POST /ART/faces/home.xhtml HTTP/1.1" 200 6356

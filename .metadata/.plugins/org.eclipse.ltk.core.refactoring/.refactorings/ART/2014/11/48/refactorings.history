@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;home.xhtml&apos; to &apos;home.xhtml&apos;&#x0A;- Original project: &apos;ART&apos;&#x0A;- Destination element: &apos;home.xhtml&apos;&#x0A;- Original element: &apos;home.xhtml&apos;" description="Copy file" element1="WebContent/home.xhtml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1417169145373" target="/ART/WebContent/home.xhtml" units="0" version="1.0"/>
+</session>
